@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+    ul{
+        list-style: none;
+    }
+
+    .container {
+        width: 1111px;
+        margin: 0 auto;
+    }
+
+    .site-header{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .site-nav{
+        justify-content: flex-end;
+    }
+
+    .nav-list{
+        width: 900px;
+        display: flex;
+        justify-content: space-between;
+
+    }
